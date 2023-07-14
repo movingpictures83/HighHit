@@ -1,0 +1,2 @@
+Prefix plugins/HighHit/example/
+Plugin HighHit inputfile /biorg/data/DB/BRENDA/brenda_download_shorter.txt outputfile .
